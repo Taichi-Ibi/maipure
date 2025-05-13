@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Taichi-Ibi/maipure)
+
 # **生成AIを活用したパートナー営業力強化と地域活性化戦略：先進事例に学ぶ成功への道筋**
 
 ## **I. エグゼクティブサマリー (概要)**
